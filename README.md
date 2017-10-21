@@ -1,2 +1,2 @@
 # hello-world
-Early thoughts
+Initial thoughts
